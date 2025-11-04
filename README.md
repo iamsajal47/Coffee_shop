@@ -1,1 +1,1 @@
-# Coffee_shop
+# Coffee Shop Daily Revenue Predictor
